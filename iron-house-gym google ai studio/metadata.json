@@ -1,0 +1,6 @@
+{
+    "name": "Iron House Gym",
+    "description": "Official website for Iron House Gym - Pakistan's premier high-performance fitness facility with elite strength training, personal coaching, boxing, and transformation programs.",
+    "requestFramePermissions": [],
+    "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+  }
